@@ -1,5 +1,4 @@
 import glob
-import os
 import subprocess
 
 rootdir = 'Q:\VRChat Projects\OSC\TTSVoiceWizard'
@@ -9,14 +8,13 @@ programName = 'TTSVoiceWizard.exe'
 searchQuery = rootdir + '\\' + searchPattern
 searchResults = glob.glob(searchQuery)
 
-# for searchResult in searchResults:
-#     print(searchResult)
-
 latestVersion = searchResults.pop()
 
+# for searchResult in searchResults:
+#     print(searchResult)
 # print('Latest version is: ' + latestVersion)
 
+# this is garbage and I should feel bad, but it works so whatever
 pathToProgram = '"' + latestVersion + '\\' + programName + '"'
 
-# os.system(pathToProgram)
 subprocess.Popen(pathToProgram)
