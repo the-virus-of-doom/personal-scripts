@@ -84,4 +84,4 @@ Here's some stuff I'd like to do in the future in no particular order:
 
 I have multiple versions of this saved in the same folder so this just lets me launch the latest with a single click. This is fairly smol so it's self documenting but could adapted for multiple different things by swapping out the path and pattern search strings.
 
-![screenshot of windows explorer showing multiple versions of TTS Voice Wizard downloaded](documentation-assets\TTSVoiceWizard-versions.png)
+![screenshot of windows explorer showing multiple versions of TTS Voice Wizard downloaded](documentation-assets/TTSVoiceWizard-versions.png)
