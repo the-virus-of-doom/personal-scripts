@@ -1,3 +1,0 @@
-Zach's TODO list for future scripts
-
-- SteamVR launch triggered script for resetting VoiceMeeter for index audio
