@@ -30,6 +30,7 @@ Shaders
 
 Avatar Tools
 
+- [Blender to Unity FBX Exporter](https://github.com/EdyJ/blender-to-unity-fbx-exporter) (This one is a must have for blender work)
 - [Pumkin's Avatar Tools](https://github.com/rurre/PumkinsAvatarTools)
 - [OSC](https://github.com/vrchat-community/osc)
 - [ComboGestureExpressions](https://github.com/hai-vr/combo-gesture-expressions-av3)
